@@ -1,0 +1,9 @@
+API key 
+346090a8aed7fc9280b4eab757457855
+
+token
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNDYwOTBhOGFlZDdmYzkyODBiNGVhYjc1NzQ1Nzg1NSIsInN1YiI6IjY0ZjRlYzk1OWU0NTg2MDExZGU2YjliMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.dn1ujGvOrr_otPlYir7L8bIxzQS7HA2IZY-Lxw9l1ls
+
+discover movie
+https://api.themoviedb.org/3/discover/movie?api_key=346090a8aed7fc9280b4eab757457855
+
