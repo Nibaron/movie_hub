@@ -37,7 +37,7 @@ export const Header = () => {
                     <Link to="/" className="flex items-center">
                         <img src={logo} alt="logo" />
                         <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-                            Movie HUB
+                            Movie Magnet
                         </span>
                     </Link>
 

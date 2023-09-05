@@ -1,12 +1,13 @@
 import { useEffect } from "react";
 import { Link } from "react-router-dom";
+
 import PageNotFoundImage from "../assets/pageNotFound.png";
 import { Button } from "../components";
 
 export const PageNotFound = () => {
 
   useEffect(() => {
-    document.title = `Page Not Found / Cinemate`;
+    document.title = `Page Not Found - MM`;
   });
 
   return (
