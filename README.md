@@ -1,27 +1,10 @@
-# Movie Hub webSite
+# Movie Magnet React
 
+https://github.com/Nibaron/movie_magnet_react/assets/36547410/cd5a46e8-d1bf-4e4a-a8d2-7b09af8819e1
 
-## Available Scripts
+# REQUIREMENTS
+* First clone the Repo using `https://github.com/Nibaron/movie_magnet_react.git`
+*  install npm script using `npm install`
+*   then `npm start` to start 
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
+Your app is ready to GO !
